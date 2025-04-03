@@ -1,5 +1,5 @@
-# Proyecto-MKdocs
-Repositorio creado para el primer proyecto MKdocs
+# Proyecto-GIT
+Repositorio creado para practicar con Git y con Github
 
 ## Guía básica de Git
 Estos son los comandos esenciales para manejarte con Git
